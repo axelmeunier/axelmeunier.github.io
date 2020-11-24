@@ -1,0 +1,112 @@
+html{
+	font-family: "Droid Sans Mono";
+	font-size: 16pt;
+	color: #283b5a;
+	text-decoration: none;
+}
+
+a{
+	color: inherit;
+	text-decoration: inherit;
+	padding-left: 10px;
+	margin-top: 20px;
+	margin-bottom: 5px;
+	display: block;
+
+}
+
+a:hover 
+
+{
+background-color: rgba(255,255,255,0.65);
+width: auto;
+}
+
+body{
+	/*background-image: url('bg1.png');
+	background-size: cover;*/
+	background-color: #F0F8FF;
+	
+}
+
+#search{
+	width: 500px;
+	height: 40px;
+}
+
+#title{
+	font-size: 18pt;
+	color: #222222;
+	width: 500px;
+	margin-left: 100px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	height: 200px;
+	/*font-family: "consolas";*/
+}
+
+#link{
+	width: 1325px;
+	margin: auto;
+}
+
+
+#socialtitle{
+	font-size: 16pt;
+	margin-right: 20px;
+	float: left;
+	background: #ffb5d7fc;
+	width: 250px;
+	height: 10px;
+}	
+	
+#social{
+	margin-right: 20px;
+	float: left;
+	background: #ffb5d7fc;
+	width: 230px;
+	height: 10px;
+	
+}
+
+#platforms{
+	margin-right: 20px;
+	float: left;
+	background: #ffc4e3fc;
+	width: 230px;
+	height: 10px;
+}
+
+#administration{
+	margin-right: 20px;
+	float: left;
+	background: #f3d7fbfc;
+	width: 230px;
+	height: 10px;
+}
+
+#applications{
+	margin-right: 20px;
+	float: left;
+	background: #aadbfffc;
+	width: 230px;
+	height: 10px;
+}
+
+#travail{
+	margin-right: 20px;
+	float: left;
+	background: #cef4fffc;
+	width: 230px;
+	height: 10px;
+}
+
+
+#passbox{
+	margin-left: 290px;
+	width: 100px;
+	height: 200px;	
+	display: block;
+	/*clear: both;*/
+	
+}
