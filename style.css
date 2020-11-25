@@ -1,7 +1,7 @@
 html{
 	font-family: "Droid Sans Mono";
 	font-size: 16pt;
-	color: #283b5a;
+	color: #2e3440;
 	text-decoration: none;
 }
 
@@ -9,9 +9,9 @@ a{
 	color: inherit;
 	text-decoration: inherit;
 	padding-left: 10px;
-	margin-top: 20px;
-	margin-bottom: 5px;
-	display: block;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	display: block
 
 }
 
