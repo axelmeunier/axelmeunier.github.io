@@ -25,7 +25,7 @@ width: auto;
 body{
 	/*background-image: url('bg1.png');
 	background-size: cover;*/
-	background-color: rgba(209,233,255,1);
+	background-color: rgba(209,233,255,0.5);
 	
 }
 
@@ -55,7 +55,7 @@ body{
 	font-size: 16pt;
 	margin-right: 20px;
 	float: left;
-	background: #ffb5d7fc;
+	background: #ffA08A;
 	width: 250px;
 	height: 10px;
 }	
@@ -63,7 +63,7 @@ body{
 #social{
 	margin-right: 20px;
 	float: left;
-	background: #ffb5d7fc;
+	background: #ffA08A;
 	width: 230px;
 	height: 10px;
 	
@@ -72,7 +72,7 @@ body{
 #platforms{
 	margin-right: 20px;
 	float: left;
-	background: #ffc4e3fc;
+	background: #F4C7D7;
 	width: 230px;
 	height: 10px;
 }
@@ -80,7 +80,7 @@ body{
 #administration{
 	margin-right: 20px;
 	float: left;
-	background: #f3d7fbfc;
+	background: #FFDE88;
 	width: 230px;
 	height: 10px;
 }
@@ -88,7 +88,7 @@ body{
 #applications{
 	margin-right: 20px;
 	float: left;
-	background: #aadbfffc;
+	background: #ECCF9B;
 	width: 230px;
 	height: 10px;
 }
@@ -96,7 +96,7 @@ body{
 #travail{
 	margin-right: 20px;
 	float: left;
-	background: #cef4fffc;
+	background: #9FE57A;
 	width: 230px;
 	height: 10px;
 }
