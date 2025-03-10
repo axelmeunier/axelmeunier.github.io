@@ -18,14 +18,14 @@ a{
 a:hover 
 
 {
-background-color: rgba(209,100,91,1);
+background-color: rgba(178,221,255,1);
 width: auto;
 }
 
 body{
 	/*background-image: url('bg1.png');
 	background-size: cover;*/
-	background-color: OldLace;
+	background-color: rgba(299,233,255,1);
 	
 }
 
