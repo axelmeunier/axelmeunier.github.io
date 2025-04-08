@@ -20,6 +20,7 @@ a:hover
 {
 background-color: rgba(178,221,255,1);
 width: auto;
+radius: 3px;
 }
 
 body{
